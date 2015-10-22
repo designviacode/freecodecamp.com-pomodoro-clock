@@ -1,0 +1,29 @@
+{
+  "name": "pomodoro_clock-freecodecamp",
+  "version": "1.0.0",
+  "description": "My submission for zipline project of Freecodecamp Curriculum : Build a Pomodoro Clock.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designviacode/Pomodoro-Clock-FreeCodeCamp.git"
+  },
+  "keywords": [
+    "clock",
+    "js",
+    "OO-in-JS",
+    "OOJS"
+  ],
+  "author": "Manpreet Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/designviacode/Pomodoro-Clock-FreeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/designviacode/Pomodoro-Clock-FreeCodeCamp#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4"
+  }
+}
