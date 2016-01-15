@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/designviacode/Pomodoro-Clock-FreeCodeCamp#readme",
   "dependencies": {
+    "animate.css": "^3.4.0",
     "bootstrap": "^3.3.5",
     "jquery": "^2.1.4"
   }
